@@ -1,0 +1,6 @@
+{
+	"name": "OnPremtoAzureIntegrationRuntimeNew",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
