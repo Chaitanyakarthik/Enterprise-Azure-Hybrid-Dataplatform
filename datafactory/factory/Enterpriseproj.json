@@ -1,0 +1,9 @@
+{
+	"name": "Enterpriseproj",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6580b9ce-87fe-4915-8650-7723fb8d4def",
+		"tenantId": "4cc54a12-0390-4793-97c8-d312fed65b5e"
+	}
+}
