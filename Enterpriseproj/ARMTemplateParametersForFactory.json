@@ -1,0 +1,30 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "Enterpriseproj"
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage2_sink_accountKey": {
+			"value": ""
+		},
+		"FileServer1_password": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://enterprisestorage77.dfs.core.windows.net/"
+		},
+		"AzureDataLakeStorage2_sink_properties_typeProperties_url": {
+			"value": "https://enterprisestorage77.dfs.core.windows.net/"
+		},
+		"FileServer1_properties_typeProperties_host": {
+			"value": "E:\\Azure_Projects\\Enterprise_Project"
+		},
+		"FileServer1_properties_typeProperties_userId": {
+			"value": "CHAITANYA"
+		}
+	}
+}
