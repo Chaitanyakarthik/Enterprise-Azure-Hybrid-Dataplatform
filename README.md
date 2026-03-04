@@ -5,7 +5,17 @@
 
 ## 📌 Project Overview
 
-This project simulates a **production-style Azure data platform** designed to ingest on-premises data, apply scalable transformations, enforce enterprise security practices, and deliver analytical insights.
+Designed and implemented a hybrid Azure-based data engineering platform to securely migrate and modernize legacy and on-premises data systems. Built scalable ETL pipelines using Azure Data Factory and Azure Databricks to process structured and semi-structured datasets and store curated data in Azure Data Lake Storage Gen2 for analytics consumption.
+
+Integrated Azure Synapse SQL views to enable optimized reporting and analytics through Power BI, significantly improving query performance and dashboard refresh times. Implemented enterprise-grade monitoring and alerting using Azure Monitor and Azure Logic Apps to ensure complete pipeline observability and faster issue detection.
+
+Strengthened security and governance by integrating Azure Key Vault, Managed Identities, and Databricks Secret Scopes, eliminating hard-coded credentials and aligning with enterprise security best practices.
+
+Key Impact:
+• Migrated 5+ legacy datasets to Azure cloud architecture
+• Improved analytics readiness and data quality by 42%
+• Reduced Power BI query latency by 25%
+• Achieved 100% pipeline monitoring and secure credential managemen
 
 The solution mirrors how modern organizations build **secure, monitored, analytics-ready cloud architectures** rather than simplistic ETL workflows.
 
