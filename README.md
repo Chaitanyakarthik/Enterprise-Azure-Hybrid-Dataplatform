@@ -188,14 +188,7 @@ This project reflects **data platform engineering thinking**:
 
 ---
 
-## 🚀 Why This Project Stands Out
 
-Most portfolio projects demonstrate:
-
-❌ Basic ETL pipelines  
-❌ Minimal security design  
-❌ No monitoring or alerts  
-❌ Simplistic transformations  
 
 This implementation demonstrates:
 
