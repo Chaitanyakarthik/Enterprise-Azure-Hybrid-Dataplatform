@@ -1,4 +1,4 @@
-# 🚀 Enterprise Azure Data Engineering Platform  
+# 🚀 Enterprise Azure Data Platform  
 ### Hybrid Data Pipelines • Secure Lakehouse • Cloud Analytics
 
 ---
@@ -243,15 +243,4 @@ This project aligns strongly with:
 
 ---
 
-## 👨‍💻 About the Author
 
-**Chaitanya Karthik**  
-Management Information Systems  
-Cloud & Data Engineering  
-
-🔗 LinkedIn  
-https://www.linkedin.com/in/chaitanya-karthik-t/
-
----
-
-⭐ *If you find this project valuable, consider starring the repository.*
