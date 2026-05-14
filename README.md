@@ -229,18 +229,7 @@ This implementation demonstrates:
 - Version Control (GitHub)  
 - Reliability Engineering Concepts  
 
----
 
-## 🎯 Role Alignment
 
-This project aligns strongly with:
-
-✔ Data Engineer  
-✔ Azure Data Engineer  
-✔ Cloud Data Engineer  
-✔ Analytics Engineer  
-✔ BI / Analytics Platform Roles  
-
----
 
 
